@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="886e442c-7e36-4ced-ae78-c53edda05c6a" name="Changes" comment="Добавил css">
-      <change afterPath="$PROJECT_DIR$/project/templates/flatpages/about.html" afterDir="false" />
+    <list default="true" id="886e442c-7e36-4ced-ae78-c53edda05c6a" name="Changes" comment="Пробный проект закончен">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/templates/flatpages/contact_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/flatpages/contact_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/templates/flatpages/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/flatpages/default.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717089236356</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Пробный проект закончен">
+      <option name="closed" value="true" />
+      <created>1717090263201</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717090263201</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +169,7 @@
     <MESSAGE value="Добавил fpages в INSTALLED_APPS" />
     <MESSAGE value="Изменил fpage на fpages" />
     <MESSAGE value="Добавил css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил css" />
+    <MESSAGE value="Пробный проект закончен" />
+    <option name="LAST_COMMIT_MESSAGE" value="Пробный проект закончен" />
   </component>
 </project>
