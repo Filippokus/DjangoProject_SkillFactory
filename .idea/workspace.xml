@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="886e442c-7e36-4ced-ae78-c53edda05c6a" name="Changes" comment="Подключил приложения, провел миграции, обновил список MIDDLEWARE и utlpatterns" />
+    <list default="true" id="886e442c-7e36-4ced-ae78-c53edda05c6a" name="Changes" comment="Добавлен файл .gitignore">
+      <change afterPath="$PROJECT_DIR$/project/templates/flatpages/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master"
@@ -77,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717074870941</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Добавлен файл .gitignore">
+      <option name="closed" value="true" />
+      <created>1717075049433</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717075049433</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -85,6 +106,7 @@
     <MESSAGE value="Провел первые миграции" />
     <MESSAGE value="Добавил суперпользователя" />
     <MESSAGE value="Подключил приложения, провел миграции, обновил список MIDDLEWARE и utlpatterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Подключил приложения, провел миграции, обновил список MIDDLEWARE и utlpatterns" />
+    <MESSAGE value="Добавлен файл .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен файл .gitignore" />
   </component>
 </project>
