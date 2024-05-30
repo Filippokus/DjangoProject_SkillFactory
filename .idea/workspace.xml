@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="886e442c-7e36-4ced-ae78-c53edda05c6a" name="Changes" comment="Создал пустой проект django" />
     <option name="SHOW_DIALOG" value="false" />
