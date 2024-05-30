@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="886e442c-7e36-4ced-ae78-c53edda05c6a" name="Changes" comment="Создал пустой проект django" />
+    <list default="true" id="886e442c-7e36-4ced-ae78-c53edda05c6a" name="Changes" comment="Добавил суперпользователя">
+      <change beforePath="$PROJECT_DIR$/project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,11 +56,29 @@
       <option name="project" value="LOCAL" />
       <updated>1717074319581</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Провел первые миграции">
+      <option name="closed" value="true" />
+      <created>1717074434699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717074434699</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавил суперпользователя">
+      <option name="closed" value="true" />
+      <created>1717074526955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717074526955</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создал пустой проект django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создал пустой проект django" />
+    <MESSAGE value="Провел первые миграции" />
+    <MESSAGE value="Добавил суперпользователя" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил суперпользователя" />
   </component>
 </project>
